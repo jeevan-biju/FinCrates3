@@ -91,15 +91,6 @@
   top: -10px;
 }
 
-/* .submit_button {
-  cursor: pointer;
-  padding: 8px;
-  top: 10px;
-  /* margin: 70px; */
-/* margin-top: 35px; */
-/* background-color: #7b7b7b;
-  border: 0px;
-} */
 .lablsname {
   color: rgb(0, 0, 0);
   font-family: "Anek Malayalam", sans-serif;
@@ -140,8 +131,6 @@ textarea {
 }
 
 .button-12 {
-  position: relative;
-  top: 2px;
   display: flex;
   flex-direction: column;
   align-items: center;
